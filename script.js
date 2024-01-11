@@ -1,6 +1,7 @@
 let display = document.querySelector(".display");
 let buttons = document.querySelectorAll(".button");
-
+ let Chars
+//funtion to calculatte based on button that is clicked
 let calculate = (btnValue) => {
   comsole.log(btnValue);
 };
